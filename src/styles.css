@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+img{
+  width: 300px;
+  margin-top: 50px;
+}
+.search-box{
+  width: 300px;
+  height: 30px;
+  margin-top:20px;
+}
+
+.searchlogo{
+  width: 50px;
+  margin-top: 0px;
+}
+.searchDiv{
+  margin-top:-15px;
+  display: flex;
+  width: 400px;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.result{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
